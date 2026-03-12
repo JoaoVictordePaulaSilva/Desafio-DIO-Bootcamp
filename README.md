@@ -10,8 +10,7 @@ Este projeto foi desenvolvido como parte do curso de Java & AWS na DIO. O objeti
 ## 🏗️ Estrutura de Classes (Mapa Mental)
 Para o planejamento deste projeto, utilizei a seguinte estrutura lógica:
 
-![Mapa Mental do Projeto](Estrutura de Classes.png)
-*(Dica: Certifique-se de que o arquivo de imagem está na pasta raiz do projeto para aparecer aqui)*
+![Mapa Mental do Projeto](estrutura-de-classes.png)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Java 21
