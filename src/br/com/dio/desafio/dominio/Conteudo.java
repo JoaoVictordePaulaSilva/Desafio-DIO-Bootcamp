@@ -7,6 +7,11 @@ public abstract class Conteudo {
     private String titulo;
     private String descricao;
 
+    @Override
+    public String toString() {
+        return titulo; // Vai imprimir apenas o nome do curso/mentoria
+    }
+
     // Método abstrato: cada filha (Curso/Mentoria) implementará sua regra de cálculo
     public abstract double calcularXp();
 

@@ -9,4 +9,7 @@ public class Mentoria extends Conteudo{
     public double calcularXp() {
         return XP_PADRAO + 20d;
     }
+    public LocalDate getDataMentoria() {return dataMentoria;}
+    public void setDataMentoria(LocalDate dataMentoria) {this.dataMentoria = dataMentoria;}
 }
+
